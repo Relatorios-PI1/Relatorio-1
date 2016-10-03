@@ -3,7 +3,7 @@
 
 Devido à alta demanda de energia elétrica no campus FGA e também ao constante desperdício de energia elétrica promovida por meio de ações ou por equipamentos mal dimensionados, tem-se o problema da constante quebra no contrato de demanda de energia elétrica feito entre a companhia de energia elétrica e a UnB. Esse problema tem gerado gastos e dívidas entre as duas instituições, que poderiam ser utilizados para fins de projetos ou até na infraestrutura do campus. Além do desperdício e a alta demanda de energia elétrica, a condição ambiental existente no campus, bem como a arquitetura dos prédios construídos, são aspectos que devem ser levados em conta na questão de sustentabilidade energética, por não aproveitar a iluminação diária ou por não propiciar a circulação adequada de ar, provocando um aumento no uso de lâmpadas e de climatizadores em diversos pontos do campus.
 
-A partir dos principais problemas no âmbito de consumo e gerenciamento de energia elétrica no campus, identificados com diagramas de Pareto e, com base na pesquisa das condições insustentáveis quanto ao uso de energia elétrica no campus FGA levantadas por meio de entrevistas e conversas sobre o problema com professores e usuários do campus, propõe-se os seguintes requisitos relativos ao projeto.
+A partir dos principais problemas no âmbito de consumo e gerenciamento de energia elétrica no campus, identificados com diagramas de Fishbone e, com base na pesquisa das condições insustentáveis quanto ao uso de energia elétrica no campus FGA levantadas por meio de entrevistas e conversas sobre o problema com professores e usuários do campus, propõe-se os seguintes requisitos relativos ao projeto.
 
 \begin{description}
 	\item [Requisitos funcionais] \
@@ -37,7 +37,7 @@ Dentre as fontes alternativas de energia avaliadas, destaca-se a energia solar (
 	\end{itemize}
 	\item[Problemas associados à instalação]\
 	\begin{itemize}
-	\item Biodigestor: O cheiro que é exalado por este meio acabaria incomodando a todos que estivessem perto desta fonte, outro fator é que seria interessante a fonte estar relativamente próxima ao RU na universidade pois a maior produção de objetos orgânicos é neste local.
+	\item Biodigestor: O cheiro que é exalado por este meio acabaria incomodando a todos que estivessem perto desta fonte, outro fator é que seria interessante a fonte estar relativamente próxima ao Restaurante Universitário (RU) na universidade pois a maior produção de objetos orgânicos é neste local.
 	\item Painéis fotovoltaicos: Cálculo do dimensionamento do gerador fotovoltaico para uma estrutura como a FGA, materiais que possam transmitir a energia sem perda e que sejam baratos para a instalação, o formato da superfície ao qual os painéis serão instalados, pesquisa prévia à instalação para ver o índice de radiação e quais os melhores pontos a serem abordados para a construção.
 	\end{itemize}
 \end{description}
@@ -48,7 +48,7 @@ O Dispositivo de gerenciamento da energia elétrica (DGEE) é basicamente um qua
 Por conta dos elevados custos da geração e da distribuição de energia elétrica para o Campus da FGA, e escassez de recursos naturais secundários, o uso da energia elétrica é de grande importância. No entanto a possibilidade de gerenciar e controlar, pode trazer inúmeros benefícios. Ter a possibilidade do monitoramento e armazenamento dos dados, tais como fator potência, ativa, reativa, e valores efetivos dos picos de tensões e correntes a fim de reduzir o desperdício e o custo de consumo. 
  
 Com a demanda exigida pela concessionária contratada, torna se necessário o uso do dispositivo de gerenciamento de energia elétrica.
-O circuito para implantação são divido em dois: Circuito de potência e circuito de controle.
+O circuito para implementação é dividido em duas partes: Circuito de potência e circuito de controle.
 O circuito de potência é responsável pela interface com a rede elétrica para a aquisição dos dados de energia elétrica (corrente, tensão, potência ativa e reativa e fator de potência). Já o circuito de controle é o responsável pelo tratamento dos dados medidos e pela comunicação via Wireless com o servidor.
 
 \section{Instalações de sistemas “on grid” integrando as instalações com a distribuidora de energia}
@@ -61,4 +61,4 @@ Inversor para conexão à rede (ou grid connected inverter) é um dispositivo el
 
 A principal característica de um inversor para conexão à rede é a capacidade de se interligar com a rede da concessionária, sincronizando sua frequência (60 Hz, no Brasil) e tensão de saída (CA) com a mesma, e se desconectar da rede quando esta deixa de fornecer energia como, por exemplo, devido a desligamento para reparo ou falha na rede. 
 
-Produzir a onda senoidal pura que seja compatível com a onda de corrente alternada produzida por sua companhia de distribuição. inversores de onda senoidal são um pouco mais caros, mas eles são compatíveis com quase todos os equipamentos e aparelhos que pode ser operado com a alimentação da rede. Estes inversores multifuncionais também permite que você envie o excesso de energia para a sua empresa de serviços públicos, em essência armazenar o excesso de energia na rede. inversores Grid-tie pode ser usado para manter um banco de bateria back-up cobrado por energia de emergência em caso de falta de energia elétrica.
+Para gerar a onda senoidal pura que seja compatível com a onda de corrente alternada produzida por sua companhia de distribuição, são necessários inversores de onda senoidal. Estes são um pouco mais caros, mas eles são compatíveis com quase todos os equipamentos e aparelhos que pode ser operado com a alimentação da rede. Estes inversores, classificados como multifuncionais, também permitem que você obtenha informações a respeito do excesso de energia. Inversores Grid-tie pode ser usado para manter um banco de bateria back-up cobrado por energia de emergência em caso de falta de energia elétrica.

@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tcc.aux
 The style file: abntex2-alf.bst
@@ -18,40 +18,40 @@ Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 +---------------------------------------------------------+
-| Estilo bibliográfico abntex2-alf.bst versão v-1.9.2           |
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
 | Em caso de dúvidas ou problemas com este estilo procure |
-| http://abntex2.googlecode.com                           |
+| http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
 You've used 4 entries,
-            6711 wiz_defined-function locations,
+            6714 wiz_defined-function locations,
             1212 strings with 9746 characters,
-and the built_in function-call counts, 3265 in all, are:
-= -- 354
+and the built_in function-call counts, 3291 in all, are:
+= -- 358
 > -- 117
 < -- 0
 + -- 89
 - -- 35
 * -- 220
-:= -- 496
+:= -- 498
 add.period$ -- 9
 call.type$ -- 4
 change.case$ -- 38
 chr.to.int$ -- 4
 cite$ -- 3
-duplicate$ -- 114
-empty$ -- 211
+duplicate$ -- 118
+empty$ -- 215
 format.name$ -- 163
-if$ -- 760
+if$ -- 768
 int.to.chr$ -- 0
 int.to.str$ -- 0
 missing$ -- 68
 newline$ -- 21
 num.names$ -- 15
-pop$ -- 114
+pop$ -- 116
 preamble$ -- 1
 purify$ -- 16
 quote$ -- 0
-skip$ -- 198
+skip$ -- 200
 stack$ -- 1
 substring$ -- 100
 swap$ -- 44
