@@ -1,0 +1,19 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.2 }
+
+\bibitem[Paulus, Lester e Dempster 2013]{paulus2013digital}
+\abntrefinfo{Paulus, Lester e Dempster}{PAULUS; LESTER; DEMPSTER}{2013}
+{PAULUS, T.; LESTER, J.; DEMPSTER, P. \emph{Digital tools for qualitative
+  research}. [S.l.]: Sage, 2013.}
+
+\bibitem[Vargas 2016]{vargas2016gerenciamento}
+\abntrefinfo{Vargas}{VARGAS}{2016}
+{VARGAS, R.~V. \emph{Gerenciamento de Projetos (8{\textordfeminine}
+  Edi{\c{c}}{\~a}o): Estabelecendo diferenciais competitivos}. [S.l.]:
+  Brasport, 2016.}
+
+\end{thebibliography}

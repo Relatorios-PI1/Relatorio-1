@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.10.2)  2 OCT 2016 21:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.10.2)  2 OCT 2016 23:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1088,10 +1088,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 8.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 8.
-) [5] [6
-
-]) (./editaveis/introducao.tex)
+) [5] [6]) (./editaveis/introducao.tex)
 (./editaveis/aspectosgerais.tex [7
+
 
 ] [8
 
@@ -1106,7 +1105,7 @@ Overfull \hbox (6.04686pt too wide) in paragraph at lines 4--5
  PRO-JETO (EAP)
  []
 
-<figuras/EAP.jpg, id=106, 2445.135pt x 608.2725pt>
+<figuras/EAP.jpg, id=164, 2445.135pt x 608.2725pt>
 File: figuras/EAP.jpg Graphic file (type jpg)
  <use figuras/EAP.jpg>
 Package pdftex.def Info: figuras/EAP.jpg used on input line 14.
@@ -1119,24 +1118,91 @@ Overfull \hbox (1256.58286pt too wide) in paragraph at lines 14--15
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./tcc.bbl (./tcc.brf)
+) (./editaveis/ferramentas.tex [15
+
+] [16 <./figuras/EAP.jpg>] [17
+
+] [18]
+<figuras/trello.png, id=190, 1371.1225pt x 653.44125pt>
+File: figuras/trello.png Graphic file (type png)
+
+<use figuras/trello.png>
+Package pdftex.def Info: figuras/trello.png used on input line 12.
+(pdftex.def)             Requested size: 959.77922pt x 457.40576pt.
+
+Overfull \hbox (504.77922pt too wide) in paragraph at lines 12--13
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figuras/drive.png, id=193, 1164.35pt x 586.19pt>
+File: figuras/drive.png Graphic file (type png)
+ <use figuras/drive.png>
+Package pdftex.def Info: figuras/drive.png used on input line 21.
+(pdftex.def)             Requested size: 815.03946pt x 410.3302pt.
+
+Overfull \hbox (360.03946pt too wide) in paragraph at lines 21--22
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./editaveis/analisedoproblema.tex [19
+
+] [20 <./figuras/trello.png>] [21 <./figuras/drive.png>] [22
+
+] (./editaveis/fishbone.tex [23]
+<figuras/Fishbone1.png, id=219, 1188.44pt x 514.92375pt>
+File: figuras/Fishbone1.png Graphic file (type png)
+
+<use figuras/Fishbone1.png>
+Package pdftex.def Info: figuras/Fishbone1.png used on input line 17.
+(pdftex.def)             Requested size: 448.1309pt x 194.16449pt.
+ [24 <./figuras/Fishbone1.png>]
+<figuras/Fishbone3.png, id=225, 1160.335pt x 498.86375pt>
+File: figuras/Fishbone3.png Graphic file (type png)
+
+<use figuras/Fishbone3.png>
+Package pdftex.def Info: figuras/Fishbone3.png used on input line 32.
+(pdftex.def)             Requested size: 448.1309pt x 192.66829pt.
+) (./editaveis/canvas.tex [25 <./figuras/Fishbone3.png>] [26] [27] <figuras/can
+vas.png, id=238, 1324.95pt x 654.445pt>
+File: figuras/canvas.png Graphic file (type png)
+
+<use figuras/canvas.png>
+Package pdftex.def Info: figuras/canvas.png used on input line 49.
+(pdftex.def)             Requested size: 448.1309pt x 221.34998pt.
+) (./editaveis/definicaodeproblemas.tex [28 <./figuras/canvas.png>] <figuras/gr
+aficopontas.png, id=244, 557.08125pt x 380.92313pt>
+File: figuras/graficopontas.png Graphic file (type png)
+
+<use figuras/graficopontas.png>
+Package pdftex.def Info: figuras/graficopontas.png used on input line 14.
+(pdftex.def)             Requested size: 358.50836pt x 245.14424pt.
+
+<figuras/graficocontasCEB.png, id=245, 554.07pt x 397.485pt>
+File: figuras/graficocontasCEB.png Graphic file (type png)
+
+<use figuras/graficocontasCEB.png>
+Package pdftex.def Info: figuras/graficocontasCEB.png used on input line 22.
+(pdftex.def)             Requested size: 388.37646pt x 278.6197pt.
+ [29 <./figuras/graficopontas.png>] [30 <./figuras/graficocontasCEB.png>])) (./
+tcc.bbl (./tcc.brf)
 \tf@brf=\write5
 \openout5 = `tcc.brf'.
 
- [15
+ [31] [32
 
-] [16 <./figuras/EAP.jpg>]
+]
 bibitemlist
-
-LaTeX Warning: Empty `thebibliography' environment on input line 8.
-
 )
 No file tcc.ind.
 
 AED: lastpage setting LastPage
-[17
-
-]
+[33]
 \tf@lof=\write6
 \openout6 = `tcc.lof'.
 
@@ -1146,33 +1212,38 @@ AED: lastpage setting LastPage
 \tf@toc=\write8
 \openout8 = `tcc.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
  (./tcc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
 Package rerunfilecheck Info: File `tcc.brf' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
+(rerunfilecheck)             Checksum: ACF64030B0F82064A1BF4E23E4860033;106.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
- 11831 strings out of 494935
- 171864 string characters out of 6177475
- 287506 words of memory out of 5000000
- 14773 multiletter control sequences out of 15000+600000
- 65517 words of font info for 49 fonts, out of 8000000 for 9000
+ 11994 strings out of 494935
+ 174680 string characters out of 6177475
+ 292210 words of memory out of 5000000
+ 14861 multiletter control sequences out of 15000+600000
+ 76832 words of font info for 52 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 41i,13n,38p,1208b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,13n,38p,1327b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/sh
 are/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/te
-xmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lm
-ssbx10.pfb>
-Output written on tcc.pdf (19 pages, 568255 bytes).
+lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/te
+xmf/fonts/type1/public/lm/lmri8.pfb></usr/share/texmf/fonts/type1/public/lm/lms
+s12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmssbx10.pfb>
+Output written on tcc.pdf (35 pages, 1092066 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 150 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 424 PDF objects out of 1000 (max. 8388607)
+ 353 compressed objects within 4 object streams
+ 82 named destinations out of 1000 (max. 500000)
+ 322 words of extra memory for PDF output out of 10000 (max. 10000000)
 
