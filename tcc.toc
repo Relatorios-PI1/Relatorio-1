@@ -8,6 +8,9 @@
 \contentsline {part}{\partnumberline {I}\MakeTextUppercase {Aspectos Gerais}}{9}{part.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Aspectos Gerais}}{11}{chapter.1}
+\contentsline {part}{\partnumberline {II}\MakeTextUppercase {Estrutura Anal\IeC {\'\i }tica do Projeto}}{13}{part.2}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Estrutura Anal\IeC {\'\i }tica do Projeto}}{15}{chapter.2}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{Refer\^encias}{13}{section*.6}
+\contentsline {chapter}{Refer\^encias}{17}{section*.7}
