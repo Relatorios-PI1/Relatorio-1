@@ -15,26 +15,29 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Defini\IeC {\c c}\IeC {\~a}o da Ferramenta de Gest\IeC {\~a}o}}{19}{chapter.3}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {An\IeC {\'a}lise do Problema}}{23}{chapter.4}
-\contentsline {section}{\numberline {4.1}Diagrama de Fishbone}{23}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Introdu\IeC {\c c}\IeC {\~a}o}{23}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Quebra de Contrato de Demanda da CEB}{23}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Depend\IeC {\^e}ncia da Concession\IeC {\'a}ria Energ\IeC {\'e}tica}{24}{subsection.4.1.3}
-\contentsline {section}{\numberline {4.2}Canvas}{26}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Justificativas}{26}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Objetivos Smart Grid}{26}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Benef\IeC {\'\i }cios futuros}{26}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Produto}{27}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Requisitos}{27}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}Stakeholders}{27}{subsection.4.2.6}
-\contentsline {subsection}{\numberline {4.2.7}Restri\IeC {\c c}\IeC {\~o}es}{27}{subsection.4.2.7}
-\contentsline {subsection}{\numberline {4.2.8}Premissas}{27}{subsection.4.2.8}
-\contentsline {subsection}{\numberline {4.2.9}Riscos}{28}{subsection.4.2.9}
-\contentsline {subsection}{\numberline {4.2.10}Resumo gr\IeC {\'a}fico do Canvas}{28}{subsection.4.2.10}
-\contentsline {section}{\numberline {4.3}Defini\IeC {\c c}\IeC {\~a}o de Problemas Principais}{29}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}An\IeC {\'a}lise dos problemas}{29}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Consumo incompat\IeC {\'\i }vel com o contratado}{29}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Depend\IeC {\^e}ncia da concession\IeC {\'a}ria de energia el\IeC {\'e}trica}{30}{subsection.4.3.3}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {An\IeC {\'a}lise do Problema}}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Diagrama de Fishbone}{21}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Introdu\IeC {\c c}\IeC {\~a}o}{21}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Quebra de Contrato de Demanda da CEB}{21}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Depend\IeC {\^e}ncia da Concession\IeC {\'a}ria Energ\IeC {\'e}tica}{22}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Canvas}{24}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Justificativas}{24}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Objetivos Smart Grid}{24}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Benef\IeC {\'\i }cios futuros}{24}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Produto}{25}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Requisitos}{25}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Stakeholders}{25}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Restri\IeC {\c c}\IeC {\~o}es}{25}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}Premissas}{25}{subsection.4.2.8}
+\contentsline {subsection}{\numberline {4.2.9}Riscos}{26}{subsection.4.2.9}
+\contentsline {subsection}{\numberline {4.2.10}Resumo gr\IeC {\'a}fico do Canvas}{26}{subsection.4.2.10}
+\contentsline {section}{\numberline {4.3}Defini\IeC {\c c}\IeC {\~a}o de Problemas Principais}{27}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}An\IeC {\'a}lise dos problemas}{27}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Consumo incompat\IeC {\'\i }vel com o contratado}{27}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Depend\IeC {\^e}ncia da concession\IeC {\'a}ria de energia el\IeC {\'e}trica}{28}{subsection.4.3.3}
+\contentsline {part}{\partnumberline {IV}\MakeTextUppercase {Considera\IeC {\c c}\IeC {\~o}es Finais}}{31}{part.4}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Considera\IeC {\c c}\IeC {\~o}es Finais}}{33}{chapter.5}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{Refer\^encias}{33}{section*.8}
+\contentsline {chapter}{Refer\^encias}{35}{section*.9}
