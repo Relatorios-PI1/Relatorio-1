@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.10.2)  3 OCT 2016 01:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.10.2)  3 OCT 2016 00:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -921,7 +921,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 16.
 
 
 Writing index file tcc.idx 
-(./tcc.aux)
+No file tcc.aux.
 \openout1 = `tcc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -939,7 +939,7 @@ LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 10.
- (/usr/share/texmf/tex/latex/lm/t1lmr.fd
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 \AtBeginShipoutBox=\box30
@@ -1070,30 +1070,37 @@ l.14 \imprimirfolhaderosto* {}
                                [1
 
 
-] (./fixos/listasAutomaticas.tex (./tcc.lof))
-(./fixos/indiceAutomatico.tex (./tcc.toc
-Underfull \vbox (badness 1237) has occurred while \output is active []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
+] (./fixos/listasAutomaticas.texpdfTeX warning (ext4): destination with the sam
+e identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 ...}lise dos problemas}{18}{subsection.5.3.1}
-                                                   [2])) [3]
-(./editaveis/introducao.tex [4
+l.3 \cleardoublepage
+                     [2] [3
 
-]) (./editaveis/aspectosgerais.tex [5] [6
+] [4
+
+]) (./fixos/indiceAutomatico.tex [5] [6
 
 ])
-(./editaveis/eap.tex [7] [8
+(./editaveis/introducao.tex) (./editaveis/aspectosgerais.tex [7
 
-]
+] [8
+
+] [9]
+[10]) (./editaveis/eap.tex [11
+
+] [12
+
+] [13] [14]
 Overfull \hbox (6.04686pt too wide) in paragraph at lines 4--5
 []\T1/lmr/m/n/12 No ge-ren-ci-a-mento de pro-jeto, A ES-TRU-TURA ANA-LÍ-TICA DO
  PRO-JETO (EAP)
  []
 
-<figuras/EAP.jpg, id=152, 2445.135pt x 608.2725pt>
+
+LaTeX Warning: Reference `fig:eap' on page 15 undefined on input line 10.
+
+<figuras/EAP.jpg, id=95, 2445.135pt x 608.2725pt>
 File: figuras/EAP.jpg Graphic file (type jpg)
  <use figuras/EAP.jpg>
 Package pdftex.def Info: figuras/EAP.jpg used on input line 14.
@@ -1105,131 +1112,76 @@ LaTeX Warning: Float too large for page by 51.64597pt on input line 17.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./editaveis/ferramentas.tex [9] [10 <./figuras/EAP.jpg>]
-<figuras/trello.png, id=167, 1371.1225pt x 653.44125pt>
+) (./editaveis/ferramentas.tex [15
+
+] [16 <./figuras/EAP.jpg>] [17
+
+] [18]
+
+LaTeX Warning: Citation `vargas2016gerenciamento' on page 19 undefined on input
+ line 4.
+
+
+LaTeX Warning: Citation `paulus2013digital' on page 19 undefined on input line 
+6.
+
+
+LaTeX Warning: Reference `fig:trello' on page 19 undefined on input line 8.
+
+<figuras/trello.png, id=118, 1371.1225pt x 653.44125pt>
 File: figuras/trello.png Graphic file (type png)
 
 <use figuras/trello.png>
 Package pdftex.def Info: figuras/trello.png used on input line 12.
 (pdftex.def)             Requested size: 455.0pt x 216.84273pt.
- <figuras/drive.png, id=170, 1164.35pt x 586.19pt>
-File: figuras/drive.png Graphic file (type png)
 
-<use figuras/drive.png>
+
+LaTeX Warning: Reference `fig:drive' on page 19 undefined on input line 17.
+
+<figuras/drive.png, id=120, 1164.35pt x 586.19pt>
+File: figuras/drive.png Graphic file (type png)
+ <use figuras/drive.png>
 Package pdftex.def Info: figuras/drive.png used on input line 21.
 (pdftex.def)             Requested size: 455.0pt x 229.06935pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./editaveis/analisedoproblema.tex [11
+) (./editaveis/analisedoproblema.tex [19
 
- <./figuras/trello.png>] [12 <./figuras/drive.png>] (./editaveis/fishbone.tex [
-13
+ <./figuras/trello.png>] [20 <./figuras/drive.png>] (./editaveis/fishbone.tex [
+21
 
 ]
-<figuras/Fishbone1.png, id=189, 1188.44pt x 514.92375pt>
+<figuras/Fishbone1.png, id=142, 1188.44pt x 514.92375pt>
 File: figuras/Fishbone1.png Graphic file (type png)
 
 <use figuras/Fishbone1.png>
 Package pdftex.def Info: figuras/Fishbone1.png used on input line 17.
 (pdftex.def)             Requested size: 448.1309pt x 194.16449pt.
- [14 <./figuras/Fishbone1.png>]
-<figuras/Fishbone3.png, id=195, 1160.335pt x 498.86375pt>
+ [22 <./figuras/Fishbone1.png>]
+<figuras/Fishbone3.png, id=150, 1160.335pt x 498.86375pt>
 File: figuras/Fishbone3.png Graphic file (type png)
 
 <use figuras/Fishbone3.png>
 Package pdftex.def Info: figuras/Fishbone3.png used on input line 32.
 (pdftex.def)             Requested size: 448.1309pt x 192.66829pt.
-) (./editaveis/canvas.tex [15 <./figuras/Fishbone3.png>] [16] [17] <figuras/can
-vas.png, id=209, 1324.95pt x 654.445pt>
+) (./editaveis/canvas.tex [23 <./figuras/Fishbone3.png>] [24] [25] <figuras/can
+vas.png, id=175, 1324.95pt x 654.445pt>
 File: figuras/canvas.png Graphic file (type png)
 
 <use figuras/canvas.png>
 Package pdftex.def Info: figuras/canvas.png used on input line 49.
 (pdftex.def)             Requested size: 448.1309pt x 221.34998pt.
-) (./editaveis/definicaodeproblemas.tex [18 <./figuras/canvas.png>] <figuras/gr
-aficopontas.png, id=215, 557.08125pt x 380.92313pt>
+) (./editaveis/definicaodeproblemas.tex [26 <./figuras/canvas.png>] <figuras/gr
+aficopontas.png, id=184, 557.08125pt x 380.92313pt>
 File: figuras/graficopontas.png Graphic file (type png)
 
 <use figuras/graficopontas.png>
 Package pdftex.def Info: figuras/graficopontas.png used on input line 14.
 (pdftex.def)             Requested size: 358.50836pt x 245.14424pt.
 
-<figuras/graficocontasCEB.png, id=216, 554.07pt x 397.485pt>
+<figuras/graficocontasCEB.png, id=185, 554.07pt x 397.485pt>
 File: figuras/graficocontasCEB.png Graphic file (type png)
 
-<use figuras/graficocontasCEB.png>
-Package pdftex.def Info: figuras/graficocontasCEB.png used on input line 22.
-(pdftex.def)             Requested size: 388.37646pt x 278.6197pt.
- [19 <./figuras/graficopontas.png>]))
-(./editaveis/requisitos.tex [20 <./figuras/graficocontasCEB.png>]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 12.
-
-(/usr/share/texmf/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 12.
- [21
-
-] [22]) (./editaveis/solucao.tex
-[23] [24] [25
-
-] [26]) (./editaveis/consideracoesfinais.tex [27] [28
-
-]) (./tcc.bbl (./tcc.brf)
-\tf@brf=\write5
-\openout5 = `tcc.brf'.
-
- [29] [30
-
-]
-bibitemlist
-)
-No file tcc.ind.
-
-AED: lastpage setting LastPage
-[31]
-\tf@lof=\write6
-\openout6 = `tcc.lof'.
-
-\tf@toc=\write7
-\openout7 = `tcc.toc'.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
- (./tcc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
-Package rerunfilecheck Info: File `tcc.brf' has not changed.
-(rerunfilecheck)             Checksum: A2AA71367503F211EA303378608A7E25;165.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
- ) 
-Here is how much of TeX's memory you used:
- 12020 strings out of 494935
- 175307 string characters out of 6177475
- 292458 words of memory out of 5000000
- 14894 multiletter control sequences out of 15000+600000
- 63250 words of font info for 42 fonts, out of 8000000 for 9000
- 16 hyphenation exceptions out of 8191
- 41i,13n,38p,1610b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
-hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
-/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/te
-xmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lm
-ri8.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fo
-nts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10
-.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on tcc.pdf (33 pages, 1118845 bytes).
-PDF statistics:
- 452 PDF objects out of 1000 (max. 8388607)
- 382 compressed objects within 4 object streams
- 83 named destinations out of 1000 (max. 500000)
- 362 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+<us
